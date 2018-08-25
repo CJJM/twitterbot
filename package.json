@@ -1,0 +1,14 @@
+{
+  "name": "twitterbot1",
+  "version": "1.0.0",
+  "description": "Twitter bot using Node.js",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Connor Maloney",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
